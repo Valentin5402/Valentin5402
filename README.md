@@ -1,5 +1,3 @@
-### HBonjour, je suis Valentin !i there 👋
-
 <!--
 **Valentin5402/Valentin5402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
   
 <p align="left">Le Bootcamp du Wagon m'a apporté un excellent bagage technique pour le développement web, afin de pouvoir mener à bien un certain nombre de projets dans ce domaine !</p>
 
-<p align="left">J'ai pu créer un clone d'Airbnb, ainsi que le site <a href="http://www.nurshare.com/">Nurshare</a>, concept collaboratif de garde d'enfants créé à partir d'un prototype Rails.
+<p align="left">Grâce à cette formation, j'ai pu notamment créer un clone d'Airbnb, ainsi que le site <a href="http://www.nurshare.com/">Nurshare</a>, concept collaboratif de garde d'enfants réalisé à partir d'un prototype Rails.
 
 <p align="left">Actuellement, je continue à me former en Data Science.</p> 
 

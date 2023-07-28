@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Bonjour, je suis Valentin !</h1>
 <h3 align="center">Développeur Web Full-Stack en freelance</h3>
 
-<p align="left">Musicien de formation, j'ai enseigné le violon et le piano. J'ai également un master en urbanisme et transports.</p>
+<p align="left">Titulaire depuis 2013 d'une licence de musicologie et d'un diplôme de musicien professionnel en violon, j'ai enseigné par la suite le violon et le piano. Je suis aussi détenteur depuis 2018 d'un master en urbanisme et transports.</p>
 
 <p align="left">J'ai toujours été intéressé par l’informatique, ainsi que les chiffres et statistiques sous toutes leurs formes.</p> 
   
-<p align="left">Le Bootcamp du Wagon m'a apporté un excellent bagage technique pour le développement web, afin de pouvoir mener à bien un certain nombre de projets dans ce domaine !</p>
+<p align="left">En 2023, en vue d'une réorientation professionnelle, j'ai suivi le Bootcamp du Wagon "Concepteur développeur d'applications web". Cette formation m'a permis d'acquérir un excellent bagage technique pour le développement web, afin de pouvoir travailler en freelance tout en menant à bien des projets personnels dans ce domaine !</p>
 
-<p align="left">Grâce à cette formation, j'ai pu notamment créer un clone d'Airbnb, ainsi que le site <a href="http://www.nurshare.com/">Nurshare</a>, concept collaboratif de garde d'enfants réalisé à partir d'un prototype Rails.
+<p align="left">Ainsi, j'ai pu développer des compétences par l'apprentissage et la pratique intensive des outils et langages de programmation suivants : HTML, CSS, Bootstrap, Ruby, Rails, JavaScript, bases de données, SQL, Git et GitHub. J'ai notamment créé un clone d'Airbnb, ainsi que le site <a href="http://www.nurshare.com/">Nurshare</a>, concept collaboratif de garde d'enfants réalisé à partir d'un prototype Rails.</p>
 
-<p align="left">Actuellement, je continue à me former en Data Science.</p> 
+<p align="left">Actuellement, je continue à me former sur le site de Datacamp (parcours Data Analyst et Scientist) et en autodidacte par le biais de projets personnels.</p> 
 
 <h3 align="left">Suivez-moi sur LinkedIn :</h3>
 <p align="left">

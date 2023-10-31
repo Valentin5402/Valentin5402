@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left">Ainsi, j'ai pu développer des compétences par l'apprentissage et la pratique intensive des outils et langages de programmation suivants : HTML, CSS, Bootstrap, Ruby, Rails, JavaScript, bases de données, SQL, Git et GitHub. J'ai notamment créé un clone d'Airbnb, ainsi que le site <a href="http://www.nurshare.com/">Nurshare</a>, concept collaboratif de garde d'enfants réalisé à partir d'un prototype Rails.</p>
 
-<p align="left">Actuellement, je continue à me former sur le site de Datacamp (parcours Data Analyst et Scientist) et en autodidacte par le biais de projets personnels. Je vous invite à visiter ce site &#x1F642;</p> 
+<p align="left">Actuellement, je continue à me former sur le site de Datacamp (parcours Data Analyst et Scientist) et en autodidacte par le biais de projets personnels. Je vous invite à visiter <a href="https://leroidelamagouille.fr/">ce site nouvellement créé</a> &#x1F642;</p> 
 
 <h3 align="left">Suivez-moi sur LinkedIn :</h3>
 <p align="left">
